@@ -1,12 +1,12 @@
 ## Primary Goal – Simple FAQ SDR + Lead Capture
 
 **Objective:**  
-Build a voice agent that can answer basic company questions using a local FAQ and collect lead details and then generate summary data at the end of the call.
+Build a voice agent Sales Development Representative (SDR) that can answer basic company questions and then generate lead (potential customer details) and summary data at the end of the call.
 
 ### Tasks
 
 1. **Pick a company**
-   - Pick a company (Don't use livekit, pick any Indian company/startup)
+   - Pick any Indian company/startup
    - Gather basic info (copy+paste), FAQ and pricing detail (if available) of the company in suitable format. (Text/JSON)
 
 
@@ -69,7 +69,7 @@ Only the primary goal is required to complete the challenge.
 - https://docs.livekit.io/agents/build/turns/vad/#prewarm (Hint - Load FAQ and preprocess)
 - https://docs.livekit.io/agents/build/prompting/
 - https://docs.livekit.io/agents/build/tools/
-- https://github.com/livekit-examples/python-agents-examples/tree/main/rag (Advance example. You can just split the FAQ page into paragraph / JSON and do similarity search. Note - Don't use livekit, Pick any Indian company/startup)
+- https://github.com/livekit-examples/python-agents-examples/tree/main/rag (Advance example. You can just split the FAQ page into paragraph / JSON and do similarity search. Note - Pick any Indian company/startup)
 ---
 
 ## Advanced Goals (Optional, Higher Impact)
